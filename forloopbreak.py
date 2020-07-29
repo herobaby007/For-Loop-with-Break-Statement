@@ -1,7 +1,7 @@
-l = ["Python", "Java", "C++", "Javascript"]
+l = eval(input())
 
 
-keyword = "Python"
+keyword = input()
 
 for value in l:
 
